@@ -17,7 +17,6 @@ I'm a **Game and Software Developer** based in Hungary. I specialize in low-leve
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=q0res&show_icons=true&theme=tokyonight&hide_border=true" alt="q0res GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=q0res&theme=tokyonight&hide_border=true" alt="q0res Streak" height="150" />
 </p>
 
