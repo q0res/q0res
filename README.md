@@ -1,19 +1,31 @@
-<h1 align="center">Hi! I'm qore</h1>
-<h3 align="center">I"m a cheat and game developer from Hungary.</h3>
+# 🚀 Hi there, I'm q0res! 🇭🇺
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=q0res&label=Profile%20views&color=0e75b6&style=flat" alt="q0res" /> </p>
+I'm a **Game and Software Developer** based in Hungary. I specialize in low-level systems, performance optimization, and exploring the internals of software architecture.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q0res" alt="q0res" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠 Languages and Tools
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **Low-Level / System** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| **Scripting & Logic** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Platforms & Social** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) |
+
+---
+
+### 📊 GitHub Activity
+
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=q0res&show_icons=true&theme=tokyonight&hide_border=true" alt="q0res GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=q0res&theme=tokyonight&hide_border=true" alt="q0res Streak" height="150" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=q0res&show_icons=true&locale=en&layout=compact" alt="q0res" /></p>
+### 🤝 Connect with me
+* 📍 **Location:** Hungary 🇭🇺
+* 🎯 **Interests:** Game Development, Reverse Engineering, C++ Optimization.
+* 💬 **Ask me about:** C#, Memory Management, or Game Engines.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=q0res&show_icons=true&locale=en" alt="q0res" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=q0res&" alt="q0res" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=q0res&color=blue&style=flat-square)
