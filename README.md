@@ -1,6 +1,6 @@
 # 🚀 Hi there, I'm q0res! 🇭🇺
 
-I'm a **Game and Software Developer** based in Hungary. I specialize in low-level systems, performance optimization, and exploring the internals of software architecture.
+I'm a **Game and Software Developer** based in Hungary. I specialize in low-level systems, performance optimization, and exploring the external cheat for games like **Fortnite, Roblox, Counter Strike 2** etc.
 
 ---
 
